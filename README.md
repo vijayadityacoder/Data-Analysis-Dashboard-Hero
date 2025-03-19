@@ -35,9 +35,9 @@ The dashboard includes the following key performance indicators (KPIs):
 
 ## 📈 Key Insights
 
-- The **highest revenue-generating model** contributes **X%** of total sales.
-- Majority of customers prefer **[payment method]**, making up **Y%** of transactions.
-- The **average sale price** has increased/decreased over time due to **(reason)**.
+- The **Commuter vehicle type** contributes **32%** of total sales.
+- Customers used both finance and cash options almost equally.
+- The **average sale price** has increased over time due to **Requirement of personal vehicle**.
 - <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard-Hero/blob/main/Hero%20moto%20corp/Screenshot%202025-03-19%20110918.png"> Dashboard Screenshot </a>
 - <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard-Hero/blob/main/Hero%20moto%20corp/Screenshot%202025-03-19%20110941.png"> Dashboard Screenshot </a>
 
