@@ -13,13 +13,13 @@ The dashboard includes the following key performance indicators (KPIs):
 - **Average Sale Price** – The average price of sold vehicles.
 - **Revenue by Model Type** – Breakdown of revenue for each two-wheeler model.
 - **Revenue Split by Payment Method** – Analysis of how customers are paying (cash, credit, financing, etc.).
+- **Repeat Purchase Rate** – The customer who purchased vehicle more than once.
 
 ## 🔧 Tools & Technologies Used
 
-- **Power BI / Tableau** – For data visualization and interactive dashboard creation.
+- **Power BI** – For data visualization and interactive dashboard creation.
 - **SQL** – For data extraction and querying relevant insights.
 - **Excel** – For data cleaning and pre-processing.
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** – For additional data analysis and visualization.
 
 ## 📂 Dataset
 
@@ -28,7 +28,7 @@ The dashboard includes the following key performance indicators (KPIs):
 
 ## 📌 How to Use the Dashboard
 
-1. Open the **Power BI (.pbix) / Tableau (.twbx)** file.
+1. Open the **Power BI (.pbix)** file.
 2. Navigate through the different **visualization tabs**.
 3. Use **filters and slicers** to drill down into specific data insights.
 4. Analyze the revenue patterns and trends for better decision-making.
