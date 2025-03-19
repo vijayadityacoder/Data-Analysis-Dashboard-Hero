@@ -38,6 +38,9 @@ The dashboard includes the following key performance indicators (KPIs):
 - The **Commuter vehicle type** contributes **32%** of total sales.
 - Customers used both finance and cash options almost equally.
 - The **average sale price** has increased over time due to **Requirement of personal vehicle**.
+
+## Screenshots
+
 - <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard-Hero/blob/main/Hero%20moto%20corp/Screenshot%202025-03-19%20110918.png"> Dashboard Screenshot </a>
 - <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard-Hero/blob/main/Hero%20moto%20corp/Screenshot%202025-03-19%20110941.png"> Dashboard Screenshot </a>
 
@@ -50,6 +53,9 @@ The dashboard includes the following key performance indicators (KPIs):
 ## 💡 Conclusion
 
 This dashboard serves as an efficient **data-driven tool** for business decision-making, enabling the company to optimize sales strategies, pricing, and revenue growth.
+
+## Access Dashboard
+- <a href="https://app.powerbi.com/groups/me/reports/d5b7eb9a-bf56-4970-8ce2-587f29f7251a/d6e5c692081e49a82dc0?experience=power-bi"> Dynamic Dashboard </a>
 
 ---
 
